@@ -75,3 +75,22 @@
 #     print("baby")
 # else:
 #     print("child")
+
+# for i in range(5):
+#  print(i)
+
+# for i in range(5):
+#     if i == 3:
+#       break
+#     print(i)
+
+#処理をスキップさせる
+# for i in range(5):
+#     if i == 3:
+#         continue
+#     print(i)
+
+#for文の中にfor文※なぜか処理されない
+# for i in range(5):
+#   for j in range(3):
+#     print(i, j, sep="-")
